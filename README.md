@@ -3,7 +3,7 @@ MATLAB source code for Predicting depth of bursts of DPRK underground nuclear ex
 #
 [![DOI](https://zenodo.org/badge/671288419.svg)](https://zenodo.org/badge/latestdoi/671288419)
 
-Copyright 2023 Matthew Eckert
+Copyright 2023 mexeck88
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
